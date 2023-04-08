@@ -9,7 +9,10 @@ I am from **San Jose**, born and raised.
 > I am currently a third-year majoring in **Computer Science**. I transferred from UCSC fall of this year, and I am class of 2024. 
 
 ```
-I got into computer science from a summer program Girls Who Code junior year of high school. Before that I had never done any coding more complex than writing a scratch program, but I had always enjoyed math and science classes over the liberal arts classes. Then I decided this is what I was going to study in college, and so now I am here :) 
+I got into computer science from a summer program Girls Who Code junior year of high school. Before that I 
+had never done any coding more complex than writing a Scratch program, but I had always enjoyed math and 
+science classes over the liberal arts classes. Then I decided this is what I was going to study in 
+college, and so now I am here :) 
 ```
 As someone who _isn't_ familiar with the San Diego area (and SoCal in general), I enjoy taking walkings and 
 taking [public transportation](https://www.sdmts.com/) to explore new areas and trying 

@@ -34,7 +34,7 @@ new foods. I also like taking photos. Below is a collection of some recent finds
 
 ### Academic/Career Info
 
-Out of [all of the languages I know](https://github.com/jesszhu71/CSE110_Page/new/main#languages-i-know), 
+Out of [all of the languages I know](https://github.com/jesszhu71/CSE110_Page/edit/vsc-branch/index.md#languages-i-know), 
 here my top three least disliked:
 
 - C++

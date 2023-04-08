@@ -6,10 +6,10 @@
 
 I am from **San Jose**, born and raised. 
 
-> I am currently a third-year majoring in **Computer Science**. 
+> I am currently a third-year majoring in **Computer Science**. I transferred from UCSC fall of this year, and I am class of 2024. 
 
 ```
-I transferred from UCSC fall of this year, and I am class of 2024. 
+I got into computer science from a summer program Girls Who Code junior year of high school. Before that I had never done any coding more complex than writing a scratch program, but I had always enjoyed math and science classes over the liberal arts classes. Then I decided this is what I was going to study in college, and so now I am here :) 
 ```
 As someone who _isn't_ familiar with the San Diego area (and SoCal in general), I enjoy taking walkings and 
 taking [public transportation](https://www.sdmts.com/) to explore new areas and trying 
@@ -57,7 +57,7 @@ here my top three least disliked:
 
 ### Coursework
 
-I spent most of break organizing my coursework checklist and planning. Here is my major coursework 
+I spent most of spring break organizing my coursework checklist and planning. Here is my major coursework 
 checklist (CS 26). Most of these I did not take at UCSD but at UCSC and I am projected to graduate next year winter quarter. 
 
 - [x] CSE 11
